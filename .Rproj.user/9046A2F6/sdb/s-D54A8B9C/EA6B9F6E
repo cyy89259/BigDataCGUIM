@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "a<-5\nb<-3\na+b\nx<-c(1,2,3)\nx+x\ny<-c(1,2,3,4)\nx+y\nz<-c(1,2,3,4,5,6)\nx+z\nx1<-c(1,2,3)\nx+x1\nsqrt(100)\nsin(90)\nsin(60)\nround(2266678555,-9)\n\nclass(a)\nis.character(a)\nlongx<-1:200\nlength(longx)\nstringx<-\"How are you?\"\nlength(stringx)\nnchar(stringx)\nseq(1,9,2)\n1:50\n1.4:5.6\nx<-1:5\nx+3\ny<-6:10\nx+y\nrep(1:5,3)\n\nx<-1:30\nsum(x)\nmean(x)\nmax(x)\nmin(x)\nmedian(x)\nround(sd(x),digits = 3)\nsummary(x)\nsort(x)\nsort(x,decreasing = T)\nrev(x)\nmatrix(nrow=2,ncol=3)\nmatrix(1:6,nrow=2,ncol=3)\ndim(matrix(1:6,nrow=2,ncol=3))\n",
+    "created" : 1457334715221.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "59483176",
+    "id" : "EA6B9F6E",
+    "lastKnownWriteTime" : 1457341318,
+    "last_content_update" : 1457341318750,
+    "path" : "~/GitHub/BigDataCGUIM/0307.R",
+    "project_path" : "0307.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
